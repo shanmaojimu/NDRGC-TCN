@@ -13,15 +13,14 @@ Due to the excessively large size of the log files generated during the experime
 **PyTorch version**: 2.5.1+cpu  
 **Braindecode version**: 0.8  
 **MNE version**: 1.9.0  
-**MNE-Connectivity version**: 0.7.0 (for PLV and COH calculations)  
-**EEGLAB version**: 2026.0.0 (MATLAB toolbox, used for data preprocessing and validation)  
+**MNE-Connectivity version**: 0.7.0
+**EEGLAB version**: 2026.0.0 (MATLAB toolbox)  
 **Pandas version**: 2.2.2  
 **NumPy version**: 1.24.3  
 **Matplotlib version**: 3.9.2  
 **Scikit-learn version**: 1.7.2  
 **Seaborn version**: 0.13.2  
 **SciPy version**: 1.15.3  
-**Thop version**: 0.1.1.post2209072238 (for model parameters and FLOPs calculation)  
-**PyTorch Grad-CAM version**: 1.5.0 (for CAM activation feature visualization)  
-
+**Thop version**: 0.1.1.post2209072238 
+**PyTorch Grad-CAM version**: 1.5.0
 **Computing Platform**: NVIDIA GeForce RTX 4090 GPU
