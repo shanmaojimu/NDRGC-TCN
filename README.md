@@ -24,3 +24,6 @@ Due to the excessively large size of the log files generated during the experime
 **Thop version**: 0.1.1.post2209072238 
 **PyTorch Grad-CAM version**: 1.5.0
 **Computing Platform**: NVIDIA GeForce RTX 4090 GPU
+
+## HandMI Dataset
+Due to the large size of the self-collected HandMI dataset, it is not publicly available in this repository. However, the dataset will be made available to researchers upon reasonable request. Please contact the corresponding author via email at **shanmaojimu@163.com**.
