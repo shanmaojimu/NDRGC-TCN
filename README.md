@@ -21,8 +21,8 @@ Due to the excessively large size of the log files generated during the experime
 **Scikit-learn version**: 1.7.2  
 **Seaborn version**: 0.13.2  
 **SciPy version**: 1.15.3  
-**Thop version**: 0.1.1.post2209072238 
-**PyTorch Grad-CAM version**: 1.5.0
+**Thop version**: 0.1.1.post2209072238  
+**PyTorch Grad-CAM version**: 1.5.0  
 **Computing Platform**: NVIDIA GeForce RTX 4090 GPU
 
 ## HandMI Dataset
